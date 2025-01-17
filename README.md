@@ -57,7 +57,7 @@ Create a Cloudinary account.
 Get your API keys and configure them in .env:
 
 ```
-CLOUDINARY_CLOUD_NAME=your-cloud-name
+CLOUDINARY_NAME=your-cloud-name
 CLOUDINARY_API_KEY=your-api-key
 CLOUDINARY_API_SECRET=your-api-secret
 ```
@@ -70,7 +70,7 @@ Add these credentials in .env:
 
 ```
 PAYPAL_CLIENT_ID=your-client-id
-PAYPAL_SECRET=your-secret
+PAYPAL_CLIENT_SECRET=your-secret
 ```
 
 7. Start the app:
